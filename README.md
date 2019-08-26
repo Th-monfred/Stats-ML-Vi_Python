@@ -1,1 +1,1 @@
-# Stats-ML-Vi_Python
+# Statistics, Machine Learning and Data Visualization with Python
