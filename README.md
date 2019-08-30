@@ -1,1 +1,1 @@
-# Statistics, Machine Learning and Data Visualization with Python
+# Exercises on Statistics, Machine Learning and Data Visualization with Python
